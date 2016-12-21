@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/meteor/todos.svg?style=svg)](https://circleci.com/gh/meteor/todos)
+[![CircleCI](https://circleci.com/gh/nguyengiabk/todos.svg?style=svg)](https://circleci.com/gh/nguyengiabk/todos)
 
 This is a Todos example app built on the principles described in the [Meteor Guide](http://guide.meteor.com/structure.html). This app uses the module functionality introduced in Meteor 1.3, but everything else should be applicable to Meteor 1.2 as well.
 
