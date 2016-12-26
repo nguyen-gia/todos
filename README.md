@@ -4,6 +4,7 @@ This is a Todos example app built on the principles described in the [Meteor Gui
 
 This branch (`react`) implements the UI in [React](https://facebook.github.io/react/index.html). You can read more about using React in Meteor in the [Meteor guide article on the subject](http://guide.meteor.com/v1.3/react.html).
 
+AAA: add text to test CircleCI
 ### Running the app
 
 ```bash
